@@ -30,8 +30,8 @@ Para verla puedes ingresar a `http://galeriadeperros.rf.gd`
 #### ***Copiamos el código tanto del CSS como del JS y lo añadimos en el head y el body del index.php correspondientemente.***
 ![image](https://user-images.githubusercontent.com/68208770/182728624-4f9bcba8-e1f5-4d10-bddb-c613be555a63.png)
 
-## 3-Abrir la página y poder visualizar sus archivos:
-#### ***Para poder ejecutar la página y crear una debes crear una carpeta en "htdocs", luego guardar los archvos de tu web en esa carpeta la cual puedes trabajar utilizando tu IDE preferido como VStudio o IntelliJ.***
+#### ***4-Abrir la página y poder visualizar sus archivos***
+#### ***Para poder ejecutar la página y crear una debes crear una carpeta en "htdocs", luego guardar los archivos de tu web en esa carpeta la cual puedes trabajar utilizando tu IDE preferido como VStudio o IntelliJ.***
 ![image](https://user-images.githubusercontent.com/68208770/182731309-89bc5718-fc8f-46f9-8fa6-46d30ab06822.png)
 
 
